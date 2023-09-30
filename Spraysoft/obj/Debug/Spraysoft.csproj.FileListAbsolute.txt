@@ -1,0 +1,33 @@
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\obj\Debug\Spraysoft.Form1.resources
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\obj\Debug\Spraysoft.Properties.Resources.resources
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\bin\Debug\Spraysoft.exe.config
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\bin\Debug\Spraysoft.exe
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\bin\Debug\Spraysoft.pdb
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\obj\Debug\Spraysoft.exe
+C:\Users\ahmet\Desktop\Spraysoft\Spraysoft\obj\Debug\Spraysoft.pdb
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\bin\Debug\Spraysoft.exe.config
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\bin\Debug\Spraysoft.exe
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\bin\Debug\Spraysoft.pdb
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.Form1.resources
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.Properties.Resources.resources
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.exe
+C:\Users\ahmet\Desktop\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.pdb
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\bin\Debug\Spraysoft.exe.config
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\bin\Debug\Spraysoft.exe
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\bin\Debug\Spraysoft.pdb
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.AssemblyReference.cache
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.SuggestedBindingRedirects.cache
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.Form1.resources
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.Properties.Resources.resources
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.GenerateResource.cache
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.csproj.CoreCompileInputs.cache
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.exe
+E:\Kişisel\C# Projects\Spraysoft\Spraysoft\obj\Debug\Spraysoft.pdb
